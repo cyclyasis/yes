@@ -1,0 +1,3 @@
+print('hey ass, type your ass here!'
+ass=input()
+print('hello you ass, ' + ass)
